@@ -5,7 +5,7 @@ I am part of a Consulting Group that have been asked to Analyze the Dataset and 
 ## Objectives
 * Analyze and perform EDA on the Dataset
 * Cleaning and removing of messy data 
-* Mainly Focusing on Using Linear Regression and continually fine tune them
+* Mainly Focusing on Using Linear Regression and continually fine tuning the model in order to predict which factors affect life expectancy the most
 
 ### Final Project Summary
 the Robert Wood Johnson Foundation and the University of Wisconsin Population Health Institute have collected the Data and I am seeking to help them
