@@ -35,7 +35,7 @@ we reduced the number of variables from 35 down to 15, we did this by firstly lo
 
 Overall I found that these factors contributed most directly to Years of Potential Life lost Rate.
 <br>
-I then performed a normal Linear Regression Model a Ridge Regression Model and a Lasso Regression Model. The R2 for Ridge Regression models performed better then both our Lasso and Linear Regression Model. As our Ridge Regression Model performed best we decided to move forward with a Ridge Regression Model and used it to test our testing sample and our Model performed well with an R2 of 0.821
+I then performed a normal Linear Regression Model a Ridge Regression Model and a Lasso Regression Model. The R2 for both the Lasso and Ridge Regression models performed better then the Linear Regression Model. As both our Lasso and Ridge performed very similarly with an R2 of 0.826 I chose to move forward with a Ridge Regression Model and used it to test our testing sample and our Model performed well with an R2 of 0.821
 
 # Futher Works
 Overall the main objective was to predict Years of Potential Life lost Rate based on certain features, the focus was to use all my Linear Regression knowledge and skills to achieve this, for further works I would like to also implement KNN model as i feel it would be a good fit for the dataset.
