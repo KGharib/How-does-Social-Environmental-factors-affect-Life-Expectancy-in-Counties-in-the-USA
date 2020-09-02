@@ -30,8 +30,7 @@ After analyzing and cleaning the main contributers to Years of Potential Life lo
 *  '%_Drive_Alone' - Percentage of workers who drive alone to work
 *  '%_Long_Commute___Drives_Alone' - Among workers who commute in their car alone, the percentage that commute more than 30 minutes
 
-
-we reduced the number of variables from 35 down to 15, we did this by firstly looking at Interactions, Multicollinearity and removed those variables that were highly correlated to each other. we also checked for Normality and Homoscedasticity and removed those outliers to ensure that the residuals were normalized and Homoscedastistic
+The number of variables was reduced from 35 down to 15, we did this by firstly looking at Interactions, Multicollinearity and removed those variables that were highly correlated to each other. we also checked for Normality and Homoscedasticity and removed those outliers to ensure that the residuals were normalized and Homoscedastistic
 
 Overall I found that these factors contributed most directly to Years of Potential Life lost Rate.
 <br>
