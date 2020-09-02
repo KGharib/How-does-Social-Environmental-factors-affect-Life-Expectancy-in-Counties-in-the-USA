@@ -12,7 +12,7 @@ the Robert Wood Johnson Foundation and the University of Wisconsin Population He
 save money, time and effort by refining and improving on their questionere and method of collecting data
 
 **_Findings_**
-After analyzing and cleaning the data I found that the main contributers to Years of Potential Life lost Rate(sum of difference between age of death and average age of death, in other words this would be the total of all the peoples difference between their age and the average age of death in the USA which is related to life expectancy, is expected age of death higher or lower than the average in the USA) for each county was most affected by these features:
+After analyzing and cleaning the main contributers to Years of Potential Life lost Rate(sum of difference between age of death and average age of death, in other words this would be the total of all the peoples difference between their age and the average age of death in the USA which is related to life expectancy, is expected age of death higher or lower than the average in the USA) for each county was most affected by these features:
 
 * '%_LBW' - Percentage of births with low birth weight (<2500g)
 * '%_Obese' - Percentage of adults that report BMI >= 30
