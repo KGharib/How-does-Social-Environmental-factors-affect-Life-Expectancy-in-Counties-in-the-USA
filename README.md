@@ -3,7 +3,7 @@
 I am part of a Consulting Group that have been asked to Analyze the Dataset and peform models in order to see how certain social environmental factors affect the life expectancy in different counties in the USA
 
 ## Objectives
-* Analyze and perform EDA on the Dataset
+* Analyze/perform EDA on the Dataset
 * Cleaning and removing of messy data 
 * Mainly Focusing on Using Linear Regression and continually fine tuning the model in order to predict which factors affect life expectancy the most
 
