@@ -1,6 +1,6 @@
 # How-does-Social-Environmental-factors-affect-Life-Expectancy-in-Counties-in-the-USA
 ## Introduction
-I am part of a Consulting Group that have been asked to Analyze the Dataset and peform models in order to see how certain social environmental factors affect the life expectancy in different counties in the USA
+I have bee asked as part of a Consulting Group to Analyze the Dataset and peform models in order to see how certain social environmental factors affect the life expectancy in different counties in the USA
 
 ## Objectives
 * Analyze/perform EDA on the Dataset
